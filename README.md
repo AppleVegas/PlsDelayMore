@@ -6,12 +6,20 @@
  # Ever got tired of Windows 10 updates? 
  Then this little tool is for you!
  
- By default, within windows update center you are able to delay updates up to a month. 
- *That what's about to be changed ;)
+ By default, within windows update center you are able to delay updates up to a month.
+ 
+ #### That what's about to be changed ;)
  
  Tool doesn't do much on it's own, it's basically a simple UI for a registry hack of delaying updates.
  In theory, updates can be delayed for any time you want.
  
  Also has a button of resuming updates and delaying them for 1 year, if the user is too lazy picking a date.
  
- # Have fun!
+ # How to use
+Download tool from the releases page, or press [here](https://github.com/AppleVegas/PlsDelayMore/releases/download/release/PlsDelayMore.exe)
+
+### Requires administrator privileges!
+
+Launch tool, choose date and push "Delay updates" button.
+
+ ## Have fun!
