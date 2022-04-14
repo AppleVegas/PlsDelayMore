@@ -6,7 +6,7 @@
  # Ever get tired of Windows 10 updates? 
  Then this little tool is for you!
  
- By default, withing windows update center you are able to delay windows updates up to a month. 
+ By default, within windows update center you are able to delay updates up to a month. 
  *That what's about to be changed ;)
  
  Tool doesn't do much on it's own, it's basically a simple UI for a registry hack of delaying updates.
