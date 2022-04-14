@@ -3,7 +3,7 @@
  
  ![Screenshot_27](https://user-images.githubusercontent.com/40367739/163489978-19ebfd75-6212-4bfe-a1f5-c9d6d206bdeb.png)
 
- # Ever get tired of Windows 10 updates? 
+ # Ever got tired of Windows 10 updates? 
  Then this little tool is for you!
  
  By default, within windows update center you are able to delay updates up to a month. 
