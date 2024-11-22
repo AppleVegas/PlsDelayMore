@@ -1,5 +1,5 @@
 # Please, delay more...
- Delay Windows 10 Updates for any time you want.
+ Pause Windows 10 Updates for as long as you want.
  
  ![Screenshot_27](https://user-images.githubusercontent.com/40367739/163489978-19ebfd75-6212-4bfe-a1f5-c9d6d206bdeb.png)
 
